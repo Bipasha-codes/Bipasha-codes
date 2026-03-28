@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![Pink Yellow and Aqua Cartoon Playful Welcome Youtube Intro Video](https://github.com/user-attachments/assets/82c8abc6-898f-4a7f-99a3-445bae8ee36e)" type="gif" width="100%"/>
+  <img src=""C:\Users\hp\Videos\Pink Yellow and Aqua Cartoon Playful Welcome Youtube Intro Video.gif"" type="gif" width="100%"/>
 </p>
 
 
