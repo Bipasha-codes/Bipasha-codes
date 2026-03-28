@@ -55,13 +55,8 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 
 ### 🚀 My GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bipasha-codes&show_icons=true&theme=radical" height="180"/>
-  
-  <img src="https://streak-stats.demolab.com?user=Bipasha-codes&theme=radical" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bipasha-codes&layout=compact&theme=radical" height="180"/>
-</p>
+
+![GitHub streak](https://streak-stats.demolab.com?user=Bipasha-codes&theme=radical)
 
 
 ### 🔝 Top Contributed Repo
