@@ -61,7 +61,7 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-  <img src="./Thankyou_Banner.gif" type="gif" width="100%"/>
+  <img src="200w.gif" type="gif" width="100%"/>
 </p>
 
 
