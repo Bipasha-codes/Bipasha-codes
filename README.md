@@ -53,6 +53,17 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
+### 🚀 My GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bipasha-codes&show_icons=true&theme=radical" height="180"/>
+  
+  <img src="https://streak-stats.demolab.com?user=Bipasha-codes&theme=radical" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bipasha-codes&layout=compact&theme=radical" height="180"/>
+</p>
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bipasha-codes&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
